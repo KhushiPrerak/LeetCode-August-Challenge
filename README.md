@@ -8,3 +8,5 @@ The challenge consists of 31 daily problems over the month of August. A problem 
 * Day 2: [Design HashSet](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3410/)
 
 * Day 3: [Valid Palindrome](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3411/)
+
+* Day 4: [Power of Four](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3411/)
