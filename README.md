@@ -14,3 +14,5 @@ The challenge consists of 31 daily problems over the month of August. A problem 
 * Day 5: [Add and Search Word - Data structure design](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3413/)
 
 * Day 6: [Find All Duplicates in an Array](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3414/)
+
+* Day 7: [Vertical Order Traversal of a Binary Tree](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3415/)
