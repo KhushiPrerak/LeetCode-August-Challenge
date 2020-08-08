@@ -16,3 +16,7 @@ The challenge consists of 31 daily problems over the month of August. A problem 
 * Day 6: [Find All Duplicates in an Array](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3414/)
 
 * Day 7: [Vertical Order Traversal of a Binary Tree](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3415/)
+
+## Week 2: August 8th - August 14th
+
+* Day 8: [Path Sum III](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3417/)
